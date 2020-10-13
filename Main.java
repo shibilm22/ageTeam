@@ -13,8 +13,8 @@ class Main {
      System.out.println("You are not old enough to join the football team");
     //you cant join the footbal team because you are not old enough.
   for (int a = 15; a< 17; a++){
+    //the ages have to be greater than or equal
   
-
   System.out.println(a + " ");
 
      
