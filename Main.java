@@ -5,6 +5,7 @@ class Main {
    int age = 15;
 
    if (age >= 15 || age>=17){
+     //``you need to be 15-17 to join the football team
      System.out.println("You are old enough to join the football team");
     //you are old enough to join the football team if youre 15.
   }else {
