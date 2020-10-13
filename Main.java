@@ -16,6 +16,7 @@ class Main {
     //the ages have to be greater than or equal
   
   System.out.print(a + ", ");
+  //comma for separation of numbers 
 
      
    }
