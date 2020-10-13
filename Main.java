@@ -14,6 +14,7 @@ class Main {
   for (int a = 15; a< 17; a++){
 
   System.out.println(a + " ");
+  
      
    }
 
