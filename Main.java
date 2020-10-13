@@ -15,7 +15,7 @@ class Main {
   for (int a = 15; a< 17; a++){
     //the ages have to be greater than or equal
   
-  System.out.println(a + " ");
+  System.out.print(a + " ");
 
      
    }
