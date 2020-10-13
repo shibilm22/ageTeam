@@ -3,6 +3,7 @@ import java.util.Scanner;
 class Main {
   public static void main(String[] args) {
    int age = 15;
+   //declares variable
 
    if (age >= 15 || age>=17){
      //``you need to be 15-17 to join the football team
